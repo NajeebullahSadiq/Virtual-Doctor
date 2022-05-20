@@ -1,0 +1,21 @@
+{
+    "type": "module",
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "this is the backend of virtual doctor app",
+    "main": "Server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Najeebullah Sadiq",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.0",
+        "express-async-handler": "^1.2.0",
+        "mongodb": "^4.5.0",
+        "mongoose": "^6.3.1",
+        "nodemon": "^2.0.16"
+    }
+}
