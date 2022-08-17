@@ -1,0 +1,17 @@
+.TextInput{
+    margin: 100px;
+    align-items: center;
+
+}
+
+.input{
+    border-radius: 30px !important;
+    height: 50px;
+      width: 100%;
+}
+.btnd{
+    margin-top: 10px;
+    height: 35px;
+    width: 100%;
+    border-radius: 30px !important;
+}

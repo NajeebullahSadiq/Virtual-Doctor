@@ -1,0 +1,57 @@
+
+.list-unstyled.icons {
+    display: flex !important;
+
+    justify-content: center;
+
+}
+
+.list-unstyled.icons li {
+    margin: 7px;
+    
+
+}
+
+ul li a:hover {
+    text-decoration: none;
+
+}
+
+.row {
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.text {
+    color: #090909 !important;
+}
+
+.list-unstyled.text {
+    color: #070707 !important;
+   
+}
+.list-unstyled{
+      font-size: 17px !important;
+
+}
+
+.logoForFooter{
+    width: 150px;
+    height: 50px;
+
+}
+p {
+    margin: 13px !important;
+    font-size: 17px !important;
+}
+
+
+.container{
+    display: inline-block !important;
+    float: left;
+}
+
+.row{
+    border-top: 2px solid black;
+  
+}
